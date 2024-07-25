@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.proyectos{
+    margin: 15px;
+}
+.car{
+    color: whitesmoke;
+   
+}
+#present{
+    padding: 95px;
+}
+#contacto{
+    padding: 25px;
+    
+}
+#par1{
+    background-color: #00094a;
+    color: white;
+}
+footer{
+    background-color: #00094a;
+    color: white;
+}
+.rounded-pill{
+    margin: 15px;
+}
+
+
+
